@@ -35,8 +35,6 @@ e d i − t i n g −
 − d i s t a n c e
 */
 using System;
-using System.Collections.Generic;
-using System.Linq;
 
 namespace EditDistance
 {
